@@ -1,10 +1,10 @@
 import React from 'react'
-import Boton from './Components/Boton'
+import FormularioIngreso from './Components/FormularioIngreso'
 
 export default function App() {
   return (
     <>
-        <Boton name='Ingresar'/>
+      <FormularioIngreso/>
     </>
   )
 }
